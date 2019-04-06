@@ -1,0 +1,31 @@
+Distributed Systems:
+	
+    A distributed system is a system that is comprised of several physically disjoint compute resources interconnected by a network, working together to appear as a single coherent system.
+
+Why build a distributed system?:
+
+	- Centralized system is simpler in all respects
+	- Scalability limitations
+	- Single point of failure
+	- Availability and redundancy
+	- Many resources are inherently distributed
+	- Many resources used in a shared fashion 
+
+Characteristics of a distributed system:
+
+	- Reliable
+	- Fault tolerant
+	- Highly available
+	- Recoverable
+	- Consistent
+	- Scalable
+	- Predictable performance
+	- Secure
+	- Heterogeneous
+	- Open 
+
+Benefits of using Edge Servers:
+
+	Edge servers cache data to provide lower latency and offload work from a central server. 
+	
+	If edge servers can't answer a request, it is forwarded to the central server.
